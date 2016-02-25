@@ -1,0 +1,9 @@
+C:\Users\JM\Documents\GitHub\Description-LookupCode\Description-LookupCode\bin\Debug\Description-LookupCode.exe.config
+C:\Users\JM\Documents\GitHub\Description-LookupCode\Description-LookupCode\bin\Debug\Description-LookupCode.exe
+C:\Users\JM\Documents\GitHub\Description-LookupCode\Description-LookupCode\bin\Debug\Description-LookupCode.pdb
+C:\Users\JM\Documents\GitHub\Description-LookupCode\Description-LookupCode\obj\Debug\Description-LookupCode.csprojResolveAssemblyReference.cache
+C:\Users\JM\Documents\GitHub\Description-LookupCode\Description-LookupCode\obj\Debug\Description_LookupCode.Form1.resources
+C:\Users\JM\Documents\GitHub\Description-LookupCode\Description-LookupCode\obj\Debug\Description_LookupCode.Properties.Resources.resources
+C:\Users\JM\Documents\GitHub\Description-LookupCode\Description-LookupCode\obj\Debug\Description-LookupCode.csproj.GenerateResource.Cache
+C:\Users\JM\Documents\GitHub\Description-LookupCode\Description-LookupCode\obj\Debug\Description-LookupCode.exe
+C:\Users\JM\Documents\GitHub\Description-LookupCode\Description-LookupCode\obj\Debug\Description-LookupCode.pdb
